@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xmlMap>
+    <nodes id="0" name="untitled" size="50.0" x="696.27026" y="467.43213" type="0" occupancy="0"/>
+    <nodes id="1" name="untitled" size="50.0" x="929.0" y="340.0" type="0" occupancy="0"/>
+    <nodes id="2" name="untitled" size="50.0" x="679.849" y="389.35123" type="0" occupancy="0"/>
+    <edges from="2" to="0"/>
+</xmlMap>

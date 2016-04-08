@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xmlMap>
+    <node id="0" name="untitled" size="201.75" x="854.9956" y="430.7248" type="0" occupancy="0"/>
+    <node id="1" name="untitled" size="50.0" x="676.04626" y="318.84497" type="0" occupancy="0"/>
+    <node id="2" name="untitled" size="50.0" x="915.9117" y="538.2363" type="0" occupancy="0"/>
+    <node id="3" name="untitled" size="50.0" x="747.3272" y="363.45596" type="0" occupancy="0"/>
+    <node id="4" name="untitled1" size="30.75" x="800.76227" y="531.8377" type="0" occupancy="0"/>
+    <node id="5" name="untitled2" size="30.75" x="921.496" y="337.23572" type="0" occupancy="0"/>
+    <node id="6" name="untitled3" size="30.75" x="969.6955" y="435.66205" type="0" occupancy="0"/>
+    <edge from="0" to="2"/>
+    <edge from="3" to="1"/>
+    <edge from="3" to="0"/>
+    <edge from="0" to="4"/>
+    <edge from="0" to="5"/>
+    <edge from="0" to="6"/>
+</xmlMap>
